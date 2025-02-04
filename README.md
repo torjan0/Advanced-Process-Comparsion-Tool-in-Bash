@@ -1,5 +1,5 @@
 
-# Advanced Process Comparison Tool (Overdrive Mode)
+# Advanced Process Comparison Tool
 
 Advanced Process Comparison Tool is a Bash script that analyzes your system’s running processes using the `/proc` filesystem. It extracts detailed information—such as the command, memory usage, CPU ticks, state, nice value, start time, and process owner—and then compares processes based on a combined difference metric (memory difference plus CPU ticks difference). This tool is packed with features including advanced filtering, sorting, multiple output formats, interactive mode, auto-refresh monitoring, parallel scanning, and summary statistics.
 
